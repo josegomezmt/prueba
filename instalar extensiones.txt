@@ -1,0 +1,1 @@
+pip install numpy pero desde d:// o para instalar otra extension 
